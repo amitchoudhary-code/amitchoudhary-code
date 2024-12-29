@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm amit choudhary 👋
 
 !Banner
 
@@ -16,7 +16,7 @@ I'm a passionate software developer with a love for technology and innovation. I
 !Your GitHub Stats
 
 ## Top Languages
-!Top Languages
+!
 
 ## Connect with Me
 !LinkedIn
