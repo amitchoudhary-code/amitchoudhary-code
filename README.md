@@ -1,42 +1,47 @@
-# Hi there, I'm amit choudhary 👋
+<br clear="both">
 
-!Banner
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amitchoudhary-code.amitchoudhary-code&"  />
+</div>
 
-## About Me
-I'm a passionate software developer with a love for technology and innovation. I enjoy working on a variety of projects, from web development to machine learning.
+###
 
-- 🔭 I’m currently working on *[Your Current Project]*
-- 🌱 I’m currently learning *[Your Learning Focus]*
-- 👯 I’m looking to collaborate on *[Your Collaboration Interests]*
-- 💬 Ask me about *[Your Expertise]*
-- 📫 How to reach me: *[Your Contact Information]*
-- ⚡ Fun fact: *[A Fun Fact About You]*
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
 
-## GitHub Stats
-!Your GitHub Stats
+###
 
-## Top Languages
-!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitchoudhary-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitchoudhary-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## Connect with Me
-!LinkedIn
-!Twitter
+###
 
-## 🛠️ My Favorite Tools
-### Programming Languages
-!Python
-!JavaScript
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-### Frameworks and Libraries
-!React
-!Node.js
+###
 
-### Tools and Platforms
-!GitHub
-!Docker
+<img src="https://raw.githubusercontent.com/amitchoudhary-code/amitchoudhary-code/output/snake.svg" alt="Snake animation" />
 
-## 📈 GitHub Activity Graph
-!GitHub Activity Graph
+###
 
-## 🏆 GitHub Trophies
-!GitHub Trophies
+<div align="center">
+  <img height="200" src="https://sklc-tinymce-2021.s3.amazonaws.com/comp/2022/08/62_1659690052.png"  />
+</div>
+
+###
